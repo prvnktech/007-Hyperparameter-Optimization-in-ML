@@ -88,4 +88,4 @@ Sample code for hyper-parameter optimization implementation for machine learning
 ## Contact-Info
 Please feel free to contact me for any questions.
 * Email: [praveen.kumar@zummitlabs.com](mailto:praveen.kumar@zummitlabs.com)
-* LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-65a190176/)  
+* LinkedIn: [Praveen Kumar](https://www.linkedin.com/in/praveen-zummit/)  
