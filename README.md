@@ -1,5 +1,5 @@
 # Hyperparameter Optimization of Machine Learning Algorithms
-
+(Thanks to Li Yang Hart)
 To fit a machine learning model into different problems, its hyper-parameters must be tuned. Selecting the best hyper-parameter configuration for machine learning models has a direct impact on the model's performance. 
 
 
