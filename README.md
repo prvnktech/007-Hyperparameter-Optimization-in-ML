@@ -1,16 +1,8 @@
 # Hyperparameter Optimization of Machine Learning Algorithms
 
-This code provides a hyper-parameter optimization implementation for machine learning algorithms, as described in the paper:  
-L. Yang and A. Shami, “[On hyperparameter optimization of machine learning algorithms: Theory and practice](https://arxiv.org/abs/2007.15745),” Neurocomputing, vol. 415, pp. 295–316, 2020, doi: https://doi.org/10.1016/j.neucom.2020.07.061.  
+To fit a machine learning model into different problems, its hyper-parameters must be tuned. Selecting the best hyper-parameter configuration for machine learning models has a direct impact on the model's performance. 
 
-To fit a machine learning model into different problems, its hyper-parameters must be tuned. Selecting the best hyper-parameter configuration for machine learning models has a direct impact on the model's performance. In this paper, optimizing the hyper-parameters of common machine learning models is studied. We introduce several state-of-the-art optimization techniques and discuss how to apply them to machine learning algorithms. Many available libraries and frameworks developed for hyper-parameter optimization problems are provided, and some open challenges of hyper-parameter optimization research are also discussed in this paper. Moreover, experiments are conducted on benchmark datasets to compare the performance of different optimization methods and provide practical examples of hyper-parameter optimization.  
 
-This paper and code will help industrial users, data analysts, and researchers to better develop machine learning models by identifying the proper hyper-parameter configurations effectively.
-
-## Paper
-On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice  
-[One-column version: arXiv](https://arxiv.org/abs/2007.15745)  
-[Two-column version: Elsevier](https://www.sciencedirect.com/science/article/pii/S0925231220311693)  
 ### Quick Navigation
 **Section 3**: Important hyper-parameters of common machine learning algorithms  
 **Section 4**: Hyper-parameter optimization techniques introduction  
@@ -94,27 +86,6 @@ Sample code for hyper-parameter optimization implementation for machine learning
 * [TPOT](https://github.com/EpistasisLab/tpot)  
 
 ## Contact-Info
-Please feel free to contact me for any questions or cooperation opportunities. I'd be happy to help.
-* Email: [liyanghart@gmail.com](mailto:liyanghart@gmail.com)
-* GitHub: [LiYangHart](https://github.com/LiYangHart) and [Western OC2 Lab](https://github.com/Western-OC2-Lab/)
+Please feel free to contact me for any questions.
+* Email: [praveen.kumar@zummitlabs.com](mailto:praveen.kumar@zummitlabs.com)
 * LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-65a190176/)  
-* Google Scholar: [Li Yang](https://scholar.google.com.eg/citations?user=XEfM7bIAAAAJ&hl=en) and [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en)
-
-## Citation
-If you find this repository useful in your research, please cite this article as:  
-
-L. Yang and A. Shami, “On hyperparameter optimization of machine learning algorithms: Theory and practice,” *Neurocomputing*, vol. 415, pp. 295–316, 2020, doi: https://doi.org/10.1016/j.neucom.2020.07.061.
-
-```
-@article{YANG2020295,
-title = "On hyperparameter optimization of machine learning algorithms: Theory and practice",
-author = "Li Yang and Abdallah Shami",
-volume = "415",
-pages = "295 - 316",
-journal = "Neurocomputing",
-year = "2020",
-issn = "0925-2312",
-doi = "https://doi.org/10.1016/j.neucom.2020.07.061",
-url = "http://www.sciencedirect.com/science/article/pii/S0925231220311693"
-}
-```
